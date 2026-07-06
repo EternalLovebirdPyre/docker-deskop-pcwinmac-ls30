@@ -1,4 +1,4 @@
-# 
+# VIP Docker Desktop herramientas para Mac OS | Exclusivo Docker Desktop herramientas para PC Windows. Con integración Kubernetes y visualización de respuestas — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
